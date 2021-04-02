@@ -1,6 +1,6 @@
 ### What's up 👋
 
-🔭 I’m currently working on LB Scoots. We make kick scooter technology.
+🔭 I’m currently working on [LB Scoots](https://lbscoots.com). We make kick scooter technology.
 
 🤓 I joined GitHub back in 2015 when I was programming video games.
 
